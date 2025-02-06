@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "first_name": "Athena",
+    "last_name": "Froschauer",
+    "role": "Account Executive",
+    "leave_vacation": 4,
+    "leave_sick": 2,
+    "leave_bereavement": 5,
+    "leave_emergency": 2,
+    "leave_offset": 4,
+    "leave_cto": 1
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "first_name": "Clareta",
+    "last_name": "Moakes",
+    "role": "Legal Assistant",
+    "leave_vacation": 1,
+    "leave_sick": 1,
+    "leave_bereavement": 3,
+    "leave_emergency": 2,
+    "leave_offset": 3,
+    "leave_cto": 5
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "first_name": "Casie",
+    "last_name": "Grcic",
+    "role": "Software Test Engineer III",
+    "leave_vacation": 4,
+    "leave_sick": 5,
+    "leave_bereavement": 5,
+    "leave_emergency": 1,
+    "leave_offset": 5,
+    "leave_cto": 5
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "first_name": "Betta",
+    "last_name": "Burnall",
+    "role": "Research Assistant III",
+    "leave_vacation": 4,
+    "leave_sick": 2,
+    "leave_bereavement": 3,
+    "leave_emergency": 3,
+    "leave_offset": 3,
+    "leave_cto": 1
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "first_name": "Gussi",
+    "last_name": "Burgon",
+    "role": "Administrative Officer",
+    "leave_vacation": 4,
+    "leave_sick": 2,
+    "leave_bereavement": 3,
+    "leave_emergency": 1,
+    "leave_offset": 1,
+    "leave_cto": 5
+  }
+]

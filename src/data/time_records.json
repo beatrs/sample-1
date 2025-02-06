@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "employee_id": 3,
+    "date": "03/14/2024",
+    "time_in": "5:53 AM",
+    "time_out": "12:44 PM"
+  },
+  {
+    "id": 2,
+    "employee_id": 1,
+    "date": "10/21/2024",
+    "time_in": "7:30 PM",
+    "time_out": "2:02 AM"
+  },
+  {
+    "id": 3,
+    "employee_id": 5,
+    "date": "12/03/2024",
+    "time_in": "8:13 PM",
+    "time_out": "4:51 PM"
+  },
+  {
+    "id": 4,
+    "employee_id": 1,
+    "date": "06/13/2024",
+    "time_in": "5:16 PM",
+    "time_out": "5:16 AM"
+  },
+  {
+    "id": 5,
+    "employee_id": 3,
+    "date": "10/07/2024",
+    "time_in": "10:24 AM",
+    "time_out": "1:02 PM"
+  },
+  {
+    "id": 6,
+    "employee_id": 5,
+    "date": "02/06/2024",
+    "time_in": "7:49 AM",
+    "time_out": "6:11 PM"
+  },
+  {
+    "id": 7,
+    "employee_id": 5,
+    "date": "09/28/2024",
+    "time_in": "5:29 AM",
+    "time_out": "8:29 PM"
+  },
+  {
+    "id": 8,
+    "employee_id": 3,
+    "date": "02/27/2024",
+    "time_in": "4:49 PM",
+    "time_out": "10:31 PM"
+  },
+  {
+    "id": 9,
+    "employee_id": 5,
+    "date": "01/24/2025",
+    "time_in": "4:46 PM",
+    "time_out": "12:18 PM"
+  },
+  {
+    "id": 10,
+    "employee_id": 2,
+    "date": "06/24/2024",
+    "time_in": "10:14 AM",
+    "time_out": "6:51 AM"
+  },
+  {
+    "id": 11,
+    "employee_id": 1,
+    "date": "08/02/2024",
+    "time_in": "6:37 AM",
+    "time_out": "7:49 PM"
+  },
+  {
+    "id": 12,
+    "employee_id": 2,
+    "date": "04/11/2024",
+    "time_in": "7:36 AM",
+    "time_out": "2:19 PM"
+  },
+  {
+    "id": 13,
+    "employee_id": 1,
+    "date": "02/23/2024",
+    "time_in": "2:55 AM",
+    "time_out": "11:22 PM"
+  },
+  {
+    "id": 14,
+    "employee_id": 1,
+    "date": "02/12/2024",
+    "time_in": "1:15 PM",
+    "time_out": "12:15 PM"
+  },
+  {
+    "id": 15,
+    "employee_id": 1,
+    "date": "10/22/2024",
+    "time_in": "3:26 AM",
+    "time_out": "9:18 PM"
+  },
+  {
+    "id": 16,
+    "employee_id": 1,
+    "date": "05/08/2024",
+    "time_in": "11:38 AM",
+    "time_out": "2:17 AM"
+  },
+  {
+    "id": 17,
+    "employee_id": 2,
+    "date": "09/18/2024",
+    "time_in": "8:17 PM",
+    "time_out": "3:11 PM"
+  },
+  {
+    "id": 18,
+    "employee_id": 4,
+    "date": "03/30/2024",
+    "time_in": "6:19 AM",
+    "time_out": "11:19 PM"
+  },
+  {
+    "id": 19,
+    "employee_id": 1,
+    "date": "10/26/2024",
+    "time_in": "12:42 PM",
+    "time_out": "8:45 PM"
+  },
+  {
+    "id": 20,
+    "employee_id": 3,
+    "date": "10/03/2024",
+    "time_in": "7:14 AM",
+    "time_out": "5:44 AM"
+  },
+  {
+    "id": 21,
+    "employee_id": 2,
+    "date": "10/02/2024",
+    "time_in": "8:06 AM",
+    "time_out": "5:44 PM"
+  },
+  {
+    "id": 22,
+    "employee_id": 3,
+    "date": "06/29/2024",
+    "time_in": "7:06 PM",
+    "time_out": "5:03 PM"
+  },
+  {
+    "id": 23,
+    "employee_id": 4,
+    "date": "05/31/2024",
+    "time_in": "5:43 PM",
+    "time_out": "7:21 AM"
+  },
+  {
+    "id": 24,
+    "employee_id": 3,
+    "date": "08/06/2024",
+    "time_in": "10:44 AM",
+    "time_out": "10:58 PM"
+  },
+  {
+    "id": 25,
+    "employee_id": 3,
+    "date": "09/08/2024",
+    "time_in": "7:27 PM",
+    "time_out": "1:52 PM"
+  }
+]
