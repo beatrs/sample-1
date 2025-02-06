@@ -1,0 +1,76 @@
+
+
+@import "../variables.scss";
+
+.container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .title {
+    font-family: "Raleway", serif;
+    color: $blue;
+    letter-spacing: 1px;
+    font-size: 2rem;
+  }
+}
+
+a {
+  color: #64748B;
+  text-decoration: none;
+  font-size: small;
+}
+
+.footer-text {
+  color: #64748B;
+  font-size: smaller;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  gap: 1rem;
+  background: #fff;
+  padding: 1.25rem;
+
+  label {
+    font-weight: 500;
+  }
+  
+  @media screen and (min-width: 480px) {
+    width: 448px;
+  }
+
+  input {
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid #eee;
+  }
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .field-error {
+    margin: 0;
+    font-size: smaller;
+    color: $red;
+  }
+
+  .btn {
+    background-color: $blue;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
